@@ -221,6 +221,9 @@ header .contact-link {
 .portfolio-text {
   margin-top: 2rem;
 }*/
+.portfolio-text p {
+  color: #000;
+}
 .portfolio-image img {
   width: 100%;
   border-radius: 10px;
