@@ -515,10 +515,10 @@ a .project-site-link:hover {
     #373b44
   );
   background: linear-gradient(
-    to right,
-    #42bdf4,
-    #373b44
-  );
+  to right,
+  #7c3aed,
+  #373b44
+);
   text-align: right;
   padding-right: 15px;
   line-height: 11px;
