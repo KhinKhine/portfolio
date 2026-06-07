@@ -1151,6 +1151,7 @@ textarea {
   border-color: #212121;
   position: absolute;
   width: 100%;
+  border-radius: 10px;
   /*border-left-color: transparent;
   border-right-color: transparent;*/
 }
